@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">The average person falls a sleep in 7 minutes.</string>
+    <string name="question_2">Killer whales are actually dolphins.</string>
+    <string name="question_3">Approximately one quarter of human bones are in the feet.</string>
+    <string name="question_4">The total surface area of two human lungs is approximately 70 square metres.</string>
+    <string name="question_5">Octopus have 3 hearts, 9 brains and blue blood.</string>
+    <string name="question_6">Human stomach cannot dissolve razor blades.</string>
+    <string name="question_7">Child has more bones in their body compared to an adult body .</string>
+    <string name="question_8">An ostrich\'s brain is bigger than its eye.</string>
+    <string name="question_9">Sound travels 4 times faster in water than in the air.</string>
+    <string name="question_10">Fleas can jump 130 times higher than their height, i.e. 6 foot person jumping 780 feet into air.</string>
+    <string name="question_11">The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</string>
+    <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
+    <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+
+</resources>
